@@ -1,0 +1,128 @@
+[
+    {
+        "storeId": 1,
+        "day": 0,
+        "isOpen": false,
+        "openHour": 0,
+        "openMinute": 0,
+        "closeHour": 0,
+        "closeMinute": 0
+    },
+    {
+        "storeId": 1,
+        "day": 1,
+        "isOpen": true,
+        "openHour": 8,
+        "openMinute": 0,
+        "closeHour": 18,
+        "closeMinute": 0
+    },
+    {
+        "storeId": 1,
+        "day": 2,
+        "isOpen": true,
+        "openHour": 8,
+        "openMinute": 0,
+        "closeHour": 18,
+        "closeMinute": 0
+    },
+    {
+        "storeId": 1,
+        "day": 3,
+        "isOpen": true,
+        "openHour": 8,
+        "openMinute": 0,
+        "closeHour": 18,
+        "closeMinute": 0
+    },
+    {
+        "storeId": 1,
+        "day": 4,
+        "isOpen": true,
+        "openHour": 8,
+        "openMinute": 0,
+        "closeHour": 18,
+        "closeMinute": 0
+    },
+    {
+        "storeId": 1,
+        "day": 5,
+        "isOpen": true,
+        "openHour": 8,
+        "openMinute": 0,
+        "closeHour": 16,
+        "closeMinute": 30
+    },
+    {
+        "storeId": 1,
+        "day": 6,
+        "isOpen": true,
+        "openHour": 9,
+        "openMinute": 30,
+        "closeHour": 14,
+        "closeMinute": 30
+    },
+    {
+        "storeId": 2,
+        "day": 0,
+        "isOpen": true,
+        "openHour": 10,
+        "openMinute": 0,
+        "closeHour": 14,
+        "closeMinute": 0
+    },
+    {
+        "storeId": 2,
+        "day": 1,
+        "isOpen": false,
+        "openHour": 0,
+        "openMinute": 0,
+        "closeHour": 0,
+        "closeMinute": 0
+    },
+    {
+        "storeId": 2,
+        "day": 2,
+        "isOpen": true,
+        "openHour": 8,
+        "openMinute": 0,
+        "closeHour": 19,
+        "closeMinute": 0
+    },
+    {
+        "storeId": 2,
+        "day": 3,
+        "isOpen": true,
+        "openHour": 8,
+        "openMinute": 0,
+        "closeHour": 19,
+        "closeMinute": 0
+    },
+    {
+        "storeId": 2,
+        "day": 4,
+        "isOpen": true,
+        "openHour": 8,
+        "openMinute": 0,
+        "closeHour": 19,
+        "closeMinute": 0
+    },
+    {
+        "storeId": 2,
+        "day": 5,
+        "isOpen": true,
+        "openHour": 8,
+        "openMinute": 0,
+        "closeHour": 17,
+        "closeMinute": 30
+    },
+    {
+        "storeId": 2,
+        "day": 6,
+        "isOpen": true,
+        "openHour": 7,
+        "openMinute": 30,
+        "closeHour": 14,
+        "closeMinute": 30
+    }
+]
