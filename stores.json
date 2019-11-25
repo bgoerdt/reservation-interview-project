@@ -1,0 +1,18 @@
+[
+    {
+        "storeId": 1,
+        "name": "Downtown Des Moines",
+        "address": "801 Grand Avenue",
+        "city": "Des Moines",
+        "state": "IA",
+        "zip": "50314"
+    },
+    {
+        "storeId": 2,
+        "name": "Urbandale",
+        "address": "4501 NW Urbandale Dr",
+        "city": "Urbandale",
+        "state": "IA",
+        "zip": "50322"
+    }
+]
