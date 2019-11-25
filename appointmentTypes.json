@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Full Massage",
+        "cost": 100,
+        "durationMinutes": 90
+    },
+    {
+        "name": "Short Massage",
+        "cost": 50,
+        "durationMinutes": 30
+    },
+    {
+        "name": "All Inclusive Package",
+        "cost": 300,
+        "durationMinutes": 240
+    }
+]
